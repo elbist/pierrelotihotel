@@ -1,0 +1,2 @@
+# pierrelotihotel
+welcome/information
